@@ -1,0 +1,1 @@
+ is a popular project management and issue-tracking software developed by Atlassian in 2002. While it was originally built for software development and bug tracking, it has evolved into a versatile tool used across marketing, HR, IT, operations, and product teams.

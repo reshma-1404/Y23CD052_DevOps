@@ -1,0 +1,1 @@
+Git is a free, open-source distributed version control system (DVCS) designed to handle everything from small to very large projects with speed and efficiency. Created by Linus Torvalds in 2005 to manage the development of the Linux kernel, it has become the de facto industry standard, utilized by over 90% of developers worldwide.
